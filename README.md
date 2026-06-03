@@ -115,8 +115,18 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogochaves123&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogochaves123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/diogochaves123">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diogochaves123&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt=""/>
+  </a>
+  <a href="https://github.com/diogochaves123">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diogochaves123&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/diogochaves123">
+    <img src="https://streak-stats.demolab.com?user=diogochaves123&theme=dark&hide_border=true" alt=""/>
+  </a>
 </p>
 
 ---
@@ -126,5 +136,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogochaves123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/diogochaves123">
+    <img src="https://komarev.com/ghpvc/?username=diogochaves123&label=Profile%20views&color=0e75b6&style=flat" alt=""/>
+  </a>
 </p>
