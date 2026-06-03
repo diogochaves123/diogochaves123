@@ -15,6 +15,9 @@
   <a href="https://github.com/diogochaves123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://keytechsolutions.com.br/">
+    <img src="https://img.shields.io/badge/KeyTech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="KeyTech"/>
+  </a>
   <a href="https://aviagest.com.br/">
     <img src="https://img.shields.io/badge/AviaGest-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AviaGest"/>
   </a>
@@ -32,7 +35,7 @@ I'm a **computer scientist** and **graduate student in Information Security**, w
 
 I work as an **IT Infrastructure Analyst** at Soledade City Hall (Prefeitura Municipal de Soledade), focusing on high availability, backups, hardening, access control, and vulnerability analysis in critical environments.
 
-Beyond my corporate role, I co-founded **[KeyTech Solutions](https://github.com/diogochaves123/KeyTech---Cloud-Structure)** and build **[AviaGest](https://aviagest.com.br/)** — financial and operational management for poultry farms ([aviagest.com.br](https://aviagest.com.br/)).
+Beyond my corporate role, I co-founded **[KeyTech Solutions](https://keytechsolutions.com.br/)** ([keytechsolutions.com.br](https://keytechsolutions.com.br/)) and build **[AviaGest](https://aviagest.com.br/)** — financial and operational management for poultry farms ([aviagest.com.br](https://aviagest.com.br/)).
 
 ---
 
@@ -44,7 +47,7 @@ Experience designing, building, and evolving solutions across **different comple
 |-------|---------------|-------------------|
 | **Low** | Scripts, CRUDs, automations, focused UIs | Web CRUD, games, utilities |
 | **Medium** | REST APIs, integrations, front-end with persistence | Recipes API, TypeScript/React apps |
-| **High** | Multi-module enterprise systems, cloud & security | [AviaGest](https://aviagest.com.br/), hospital system, KeyTech architecture, AWS reports |
+| **High** | Multi-module enterprise systems, cloud & security | [AviaGest](https://aviagest.com.br/), hospital system, [KeyTech](https://keytechsolutions.com.br/) architecture, AWS reports |
 
 Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** · **Vue** · **PostgreSQL** · **Supabase** · **Docker** · **Git/GitHub**
 
@@ -79,7 +82,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 | Period | Role | Organization |
 |--------|------|--------------|
 | 2026 — Present | IT Infrastructure Analyst | Soledade City Hall |
-| 2025 — Present | Co-founder | KeyTech Solutions |
+| 2025 — Present | Co-founder | [KeyTech Solutions](https://keytechsolutions.com.br/) |
 | 2025 — Present | Creator of [AviaGest](https://aviagest.com.br/) | [aviagest.com.br](https://aviagest.com.br/) |
 | 2024 — 2025 | IT Technician (NOC) | Setor Azul |
 | 2024 | Networks & Infrastructure Intern | Passo Fundo City Hall |
@@ -92,7 +95,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 |---------|-------------|------------|
 | [**AviaGest**](https://aviagest.com.br/) | Financial & operational management for poultry farms — [aviagest.com.br](https://aviagest.com.br/) | High |
 | [**Sistema-de-Saude**](https://github.com/diogochaves123/Sistema-de-Saude) | Hospital health management system (Vue) | High |
-| [**KeyTech---Cloud-Structure**](https://github.com/diogochaves123/KeyTech---Cloud-Structure) | KeyTech Solutions cloud architecture | High |
+| [**KeyTech Solutions**](https://keytechsolutions.com.br/) | Cloud architecture — [repo](https://github.com/diogochaves123/KeyTech---Cloud-Structure) · [keytechsolutions.com.br](https://keytechsolutions.com.br/) | High |
 | [**app-ecogrow**](https://github.com/diogochaves123/app-ecogrow) | Enterprise web app in TypeScript | Medium |
 | [**Sistemas-de-Receitas-Culin-rias-API**](https://github.com/diogochaves123/Sistemas-de-Receitas-Culin-rias-API) | REST API for recipe management | Medium |
 | [**Implementa-o-de-Medidas-de-Seguran-a---AWS**](https://github.com/diogochaves123/Implementa-o-de-Medidas-de-Seguran-a---AWS) | AWS security implementation report | Medium / Infra |
