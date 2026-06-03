@@ -43,7 +43,7 @@ Experience designing, building, and evolving solutions across **different comple
 | **Medium** | REST APIs, integrations, front-end with persistence | Recipes API, TypeScript/React apps |
 | **High** | Multi-module enterprise systems, cloud & security | Hospital system, KeyTech architecture, AWS reports |
 
-Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js** · **Vue** · **PostgreSQL** · **Supabase** · **Git/GitHub**
+Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** · **Vue** · **PostgreSQL** · **Supabase** · **Docker** · **Git/GitHub**
 
 ---
 
@@ -53,17 +53,21 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js** · **Vu
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-**Security:** hardening · IAM · vulnerability assessment · cybersecurity best practices · risk management
+**Monitoring:** Zabbix · Grafana · **Security:** hardening · IAM · vulnerability assessment · cybersecurity best practices · risk management
 
 ---
 
