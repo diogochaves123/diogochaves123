@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Diogo Vaz de Chaves</h1>
+<h1 align="center">Hi, I'm Diogo Vaz de Chaves</h1>
 
 <p align="center">
-  <strong>Cientista da Computação</strong> · Pós-graduando em <strong>Segurança da Informação</strong><br/>
-  Infraestrutura de TI · Cloud · Defesa Cibernética · Desenvolvimento de Sistemas
+  <strong>Computer Scientist</strong> · Graduate student in <strong>Information Security</strong><br/>
+  IT Infrastructure · Cloud · Cyber Defense · Software Development
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:diogo.24chaves@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/diogochaves123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -18,36 +18,36 @@
 </p>
 
 <p align="center">
-  📍 Passo Fundo — RS · 🇧🇷 Brasil
+  📍 Passo Fundo — RS · 🇧🇷 Brazil
 </p>
 
 ---
 
-## Sobre mim
+## About me
 
-Sou **cientista da computação** e **pós-graduando em Segurança da Informação**, com trajetória na interseção entre **infraestrutura de TI**, **cloud computing** e **defesa cibernética**. Minha experiência abrange suporte e monitoramento em **NOC**, administração de servidores **Linux/Windows**, virtualização com **Proxmox** e arquitetura em nuvem (**AWS** e **GCP**).
+I'm a **computer scientist** and **graduate student in Information Security**, with a background at the intersection of **IT infrastructure**, **cloud computing**, and **cyber defense**. My experience spans **NOC** support and monitoring, **Linux/Windows** server administration, **Proxmox** virtualization, and cloud architecture on **AWS** and **GCP**.
 
-Atuo como **Analista de Infraestrutura de TI** na Prefeitura Municipal de Soledade, com foco em alta disponibilidade, backup, hardening, controle de acessos e análise de vulnerabilidades em ambientes críticos.
+I work as an **IT Infrastructure Analyst** at Soledade City Hall (Prefeitura Municipal de Soledade), focusing on high availability, backups, hardening, access control, and vulnerability analysis in critical environments.
 
-Além da atuação corporativa, cofundei a **[KeyTech Solutions](https://github.com/diogochaves123/KeyTech---Cloud-Structure)** e desenvolvo o **AviaGest** — sistema de gestão financeira e operacional para o agronegócio.
-
----
-
-## Desenvolvimento de sistemas
-
-Experiência na concepção, implementação e evolução de soluções em **diferentes níveis de complexidade**:
-
-| Nível | Escopo típico | Exemplos no portfólio |
-|-------|---------------|------------------------|
-| **Baixa** | Scripts, CRUDs, automações e interfaces pontuais | CRUD web, jogos e utilitários |
-| **Média** | APIs REST, integrações, front-end com persistência | API de receitas, apps TypeScript/React |
-| **Alta** | Sistemas empresariais multi-módulo, cloud e segurança | Sistema hospitalar, arquitetura KeyTech, relatórios AWS |
-
-Stack principal: **Python** · **JavaScript/TypeScript** · **React/Next.js** · **Vue** · **PostgreSQL** · **Supabase** · **Git/GitHub**
+Beyond my corporate role, I co-founded **[KeyTech Solutions](https://github.com/diogochaves123/KeyTech---Cloud-Structure)** and build **AviaGest** — a financial and operational management system for agribusiness.
 
 ---
 
-## Stack & ferramentas
+## Software development
+
+Experience designing, building, and evolving solutions across **different complexity levels**:
+
+| Level | Typical scope | Portfolio examples |
+|-------|---------------|-------------------|
+| **Low** | Scripts, CRUDs, automations, focused UIs | Web CRUD, games, utilities |
+| **Medium** | REST APIs, integrations, front-end with persistence | Recipes API, TypeScript/React apps |
+| **High** | Multi-module enterprise systems, cloud & security | Hospital system, KeyTech architecture, AWS reports |
+
+Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js** · **Vue** · **PostgreSQL** · **Supabase** · **Git/GitHub**
+
+---
+
+## Stack & tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
@@ -63,55 +63,55 @@ Stack principal: **Python** · **JavaScript/TypeScript** · **React/Next.js** ·
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-**Segurança:** hardening · IAM · análise de vulnerabilidades · boas práticas de cibersegurança · gestão de riscos
+**Security:** hardening · IAM · vulnerability assessment · cybersecurity best practices · risk management
 
 ---
 
-## Experiência profissional
+## Professional experience
 
-| Período | Cargo | Organização |
-|---------|-------|-------------|
-| 2026 — Atual | Analista de Infraestrutura de TI | Prefeitura Municipal de Soledade |
-| 2025 — Atual | Fundador | KeyTech Solutions |
-| 2025 — Atual | Criador do AviaGest | Produto próprio |
-| 2024 — 2025 | Técnico de TI (NOC) | Setor Azul |
-| 2024 | Estágio em Redes e Infraestrutura | Prefeitura de Passo Fundo |
-
----
-
-## Projetos em destaque
-
-| Projeto | Descrição | Complexidade |
-|---------|-----------|--------------|
-| [**Sistema-de-Saude**](https://github.com/diogochaves123/Sistema-de-Saude) | Sistema de saúde hospitalar (Vue) | Alta |
-| [**KeyTech---Cloud-Structure**](https://github.com/diogochaves123/KeyTech---Cloud-Structure) | Arquitetura cloud da KeyTech Solutions | Alta |
-| [**app-ecogrow**](https://github.com/diogochaves123/app-ecogrow) | Aplicação empresarial em TypeScript | Média |
-| [**Sistemas-de-Receitas-Culin-rias-API**](https://github.com/diogochaves123/Sistemas-de-Receitas-Culin-rias-API) | API REST para gestão de receitas | Média |
-| [**Implementa-o-de-Medidas-de-Seguran-a---AWS**](https://github.com/diogochaves123/Implementa-o-de-Medidas-de-Seguran-a---AWS) | Relatório de segurança em AWS | Média / Infra |
-| [**CRUD-Front-End**](https://github.com/diogochaves123/CRUD-Front-End) | CRUD web com JavaScript | Baixa |
-
-> **AviaGest:** repositório de infraestrutura e aplicação em evolução — prioridade para publicação e documentação no GitHub.
+| Period | Role | Organization |
+|--------|------|--------------|
+| 2026 — Present | IT Infrastructure Analyst | Soledade City Hall |
+| 2025 — Present | Co-founder | KeyTech Solutions |
+| 2025 — Present | Creator of AviaGest | Own product |
+| 2024 — 2025 | IT Technician (NOC) | Setor Azul |
+| 2024 | Networks & Infrastructure Intern | Passo Fundo City Hall |
 
 ---
 
-## Formação
+## Featured projects
 
-- **Bacharelado em Ciência da Computação** — Atitus Educação (2022–2025)
-- **Pós-graduação em Segurança da Informação** — Descomplica (2026)
+| Project | Description | Complexity |
+|---------|-------------|------------|
+| [**Sistema-de-Saude**](https://github.com/diogochaves123/Sistema-de-Saude) | Hospital health management system (Vue) | High |
+| [**KeyTech---Cloud-Structure**](https://github.com/diogochaves123/KeyTech---Cloud-Structure) | KeyTech Solutions cloud architecture | High |
+| [**app-ecogrow**](https://github.com/diogochaves123/app-ecogrow) | Enterprise web app in TypeScript | Medium |
+| [**Sistemas-de-Receitas-Culin-rias-API**](https://github.com/diogochaves123/Sistemas-de-Receitas-Culin-rias-API) | REST API for recipe management | Medium |
+| [**Implementa-o-de-Medidas-de-Seguran-a---AWS**](https://github.com/diogochaves123/Implementa-o-de-Medidas-de-Seguran-a---AWS) | AWS security implementation report | Medium / Infra |
+| [**CRUD-Front-End**](https://github.com/diogochaves123/CRUD-Front-End) | Web CRUD in JavaScript | Low |
+
+> **AviaGest:** infrastructure and application repositories in progress — priority for publication and documentation on GitHub.
 
 ---
 
-## Estatísticas do GitHub
+## Education
+
+- **B.S. in Computer Science** — Atitus Educação (2022–2025)
+- **Graduate program in Information Security** — Descomplica (2026)
+
+---
+
+## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogochaves123&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogochaves123&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogochaves123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Construindo infraestruturas resilientes, escaláveis e alinhadas aos objetivos do negócio.</i>
+  <i>Building resilient, scalable infrastructure aligned with business goals.</i>
 </p>
 
 <p align="center">
