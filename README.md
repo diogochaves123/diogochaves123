@@ -10,10 +10,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:diogo.24chaves@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/diogo.24chaves@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="diogo.24chaves@gmail.com"/>
   </a>
   <a href="https://github.com/diogochaves123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://aviagest.com.br/">
+    <img src="https://img.shields.io/badge/AviaGest-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AviaGest"/>
   </a>
 </p>
 
@@ -29,7 +32,7 @@ I'm a **computer scientist** and **graduate student in Information Security**, w
 
 I work as an **IT Infrastructure Analyst** at Soledade City Hall (Prefeitura Municipal de Soledade), focusing on high availability, backups, hardening, access control, and vulnerability analysis in critical environments.
 
-Beyond my corporate role, I co-founded **[KeyTech Solutions](https://github.com/diogochaves123/KeyTech---Cloud-Structure)** and build **AviaGest** — a financial and operational management system for agribusiness.
+Beyond my corporate role, I co-founded **[KeyTech Solutions](https://github.com/diogochaves123/KeyTech---Cloud-Structure)** and build **[AviaGest](https://aviagest.com.br/)** — financial and operational management for poultry farms ([aviagest.com.br](https://aviagest.com.br/)).
 
 ---
 
@@ -41,7 +44,7 @@ Experience designing, building, and evolving solutions across **different comple
 |-------|---------------|-------------------|
 | **Low** | Scripts, CRUDs, automations, focused UIs | Web CRUD, games, utilities |
 | **Medium** | REST APIs, integrations, front-end with persistence | Recipes API, TypeScript/React apps |
-| **High** | Multi-module enterprise systems, cloud & security | Hospital system, KeyTech architecture, AWS reports |
+| **High** | Multi-module enterprise systems, cloud & security | [AviaGest](https://aviagest.com.br/), hospital system, KeyTech architecture, AWS reports |
 
 Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** · **Vue** · **PostgreSQL** · **Supabase** · **Docker** · **Git/GitHub**
 
@@ -77,7 +80,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 |--------|------|--------------|
 | 2026 — Present | IT Infrastructure Analyst | Soledade City Hall |
 | 2025 — Present | Co-founder | KeyTech Solutions |
-| 2025 — Present | Creator of AviaGest | Own product |
+| 2025 — Present | Creator of [AviaGest](https://aviagest.com.br/) | [aviagest.com.br](https://aviagest.com.br/) |
 | 2024 — 2025 | IT Technician (NOC) | Setor Azul |
 | 2024 | Networks & Infrastructure Intern | Passo Fundo City Hall |
 
@@ -87,6 +90,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 
 | Project | Description | Complexity |
 |---------|-------------|------------|
+| [**AviaGest**](https://aviagest.com.br/) | Financial & operational management for poultry farms — [aviagest.com.br](https://aviagest.com.br/) | High |
 | [**Sistema-de-Saude**](https://github.com/diogochaves123/Sistema-de-Saude) | Hospital health management system (Vue) | High |
 | [**KeyTech---Cloud-Structure**](https://github.com/diogochaves123/KeyTech---Cloud-Structure) | KeyTech Solutions cloud architecture | High |
 | [**app-ecogrow**](https://github.com/diogochaves123/app-ecogrow) | Enterprise web app in TypeScript | Medium |
@@ -94,7 +98,7 @@ Core stack: **Python** · **JavaScript/TypeScript** · **React/Next.js/Nuxt** ·
 | [**Implementa-o-de-Medidas-de-Seguran-a---AWS**](https://github.com/diogochaves123/Implementa-o-de-Medidas-de-Seguran-a---AWS) | AWS security implementation report | Medium / Infra |
 | [**CRUD-Front-End**](https://github.com/diogochaves123/CRUD-Front-End) | Web CRUD in JavaScript | Low |
 
-> **AviaGest:** infrastructure and application repositories in progress — priority for publication and documentation on GitHub.
+> **[AviaGest](https://aviagest.com.br/):** live product at [aviagest.com.br](https://aviagest.com.br/) — infrastructure and application repos on GitHub in progress.
 
 ---
 
